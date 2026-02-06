@@ -1,0 +1,3 @@
+# Minimal Python dependencies for regenerating dataset
+pandas
+Faker
